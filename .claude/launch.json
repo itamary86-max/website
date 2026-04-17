@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "otf-site",
+      "runtimeExecutable": "/Users/kseniagl/.local/share/mise/installs/node/lts/bin/npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000,
+      "cwd": ".",
+      "autoPort": true
+    }
+  ]
+}
