@@ -22,7 +22,7 @@ export default function LogoStrip() {
   const loop = [...logos, ...logos]
 
   return (
-    <section className="relative bg-white py-16 border-y border-navy/10">
+    <section className="relative bg-white py-16 border-y border-navy/10 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4">
         {/* Eyebrow */}
         <div className="flex items-center justify-center gap-4 mb-3">
